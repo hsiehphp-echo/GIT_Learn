@@ -40,7 +40,7 @@
 
 如果你覺得 Git 指令很抽象，讓我們用**建築設計與工地管理**來類比。這張圖呈現了從「總部設計圖」到「你家施工現場」的完整流程：
 
-![Git Architecture Analogy](git_architecture.png)
+![Git Architecture Analogy v2](git_architecture_v2.png)
 
 *(若圖片無法顯示，請參考下方的流程圖)*
 
